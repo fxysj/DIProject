@@ -19,3 +19,5 @@ Openroutert-test:
 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
 
 https://openrouter.ai/docs/quickstart
+
+  base_url="https://openrouter.ai/api/v1",

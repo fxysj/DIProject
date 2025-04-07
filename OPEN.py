@@ -10,7 +10,7 @@ from openai import OpenAI
 
 client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),  # 替换成你的 DMXapi 令牌key
-    base_url="https://www.dmxapi.cn/v1",  # 需要改成DMXAPI的中转 https://www.dmxapi.cn/v1 ，这是已经改好的。
+    base_url="https://openrouter.ai/api/v1",  # 需要改成DMXAPI的中转 https://www.dmxapi.cn/v1 ，这是已经改好的。
 )
 
 chat_completion = client.chat.completions.create(

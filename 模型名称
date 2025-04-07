@@ -1,0 +1,19 @@
+openai/gpt-4o-2024-11-20
+curl -X POST https://openrouter.ai/api/v1/chat/completions \
+     -H "Authorization: Bearer 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" \
+     -H "Content-Type: application/json" \
+     -d '{
+  "model": "openai/gpt-4o-2024-11-20",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the meaning of life?"
+    }
+  ]
+}'
+
+Openrouter-formar:
+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
+
+Openroutert-test:
+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

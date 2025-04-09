@@ -10,7 +10,7 @@ from pydantic import BaseModel, Field
 from typing import Optional
 from mcp.server.fastmcp.prompts import base
 from PIL import Image as PILImage
-mcp = FastMCP("My App")
+mcp = FastMCP("订单服务")
 
 
 @mcp.resource("config://app")

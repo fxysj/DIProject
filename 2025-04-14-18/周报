@@ -1,0 +1,31 @@
+2024-04-14
+  1.0 完成大模型异常捕获机制 新增6个异常拦截器 作用是:大模型LLM的FastAPI代码的稳定性和健壮性
+      需求方:产品,项目组
+      产出地址:https://github.com/fxysj/ai-wallet/tree/feature/deep_search_0520
+
+2024-04-15
+ 完整深度搜索功能: 需要大模型对用户的输入关键词进行整合RowData和GOPlus需要的数据进行重新组合返回
+ 类型关键词信息,调用的使用选择对应的关键词对应的类型,大模型自动根据类型进行路由到不同的数据源,数据源进行重新组合
+ 大模型根据数据源进行-插入数据源规则-分片的提示词的需求-完成数据的返回
+ 包含:大模型分析问题类型 API整合 数据源整合 问题规则拆分
+ 提示词优化 测试案例编写 数据校验 数据填充 交互逻辑
+ 整合地址如下:
+ GO-Plus
+ https://docs.gopluslabs.io/reference/tokensecurityusingget_1
+ ROWDATA:
+ https://www.rootdata.com/zh/Api/Doc
+ coinmarketcap:
+ https://coinmarketcap.com/api/documentation/v1/#operation/getV2CryptocurrencyQuotesLatest
+ 需求文档地址:
+ https://87wigh.axshare.com/?g=4
+
+
+2024-04-16
+
+完成具体的
+#其他类型API工具分析
+def api_extra_asnyc(attached_data,type_value):
+    pass
+函数补充:
+
+

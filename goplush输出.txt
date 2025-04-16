@@ -1,0 +1,707 @@
+{
+    "code": 1,
+    "message": "OK",
+    "result": {
+        "0x55d398326f99059ff775485246999027b3197955": {
+            "anti_whale_modifiable": "0",
+            "buy_tax": "0",
+            "can_take_back_ownership": "0",
+            "cannot_buy": "0",
+            "cannot_sell_all": "0",
+            "creator_address": "0x970609ba2c160a1b491b90867681918bdc9773af",
+            "creator_balance": "8148.389157646311854474",
+            "creator_percent": "0.000002",
+            "dex": [
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "16914716.984223211271989451619454",
+                    "pair": "0x4f31fa980a675570939b737ebdde0471a4be40eb"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV2",
+                    "liquidity": "12746691.70560725",
+                    "pair": "0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "10313484.58499116210239281924",
+                    "pair": "0x36696169c63e42cd08ce11f5deebbcebae652050"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "5959077.23603634480137051095",
+                    "pair": "0x172fcd41e0913e95784454622d1c3724f546f849"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "4713089.147869439353539975595312",
+                    "pair": "0x92b7807bf19b7dddf89b706143896d05228f3121"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "4657534.86928244219421751088",
+                    "pair": "0x7f51c8aaa6b0599abd16674e2b17fec7a9f674a1"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "3601253.05634094603942203144",
+                    "pair": "0xfe4fe5b4575c036ac6d5cccfe13660020270e27a"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV2",
+                    "liquidity": "1925607.81997935",
+                    "pair": "0x7efaef62fddcca950418312c6c91aef321375a00"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV1",
+                    "liquidity": "1622596.64141033",
+                    "pair": "0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "686972.203587007558671482804565",
+                    "pair": "0xbf72b6485e4b31601afe7b0a1210be2004d2b1d6"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "671798.40498765632332680700",
+                    "pair": "0x47a90a2d92a8367a91efa1906bfc8c1e05bf10c4"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV2",
+                    "liquidity": "591444.61514544",
+                    "pair": "0xec6557348085aa57c72514d67070dc863c0a5a8c"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV2",
+                    "liquidity": "542745.05353356",
+                    "pair": "0x703f1c0b4399a51704e798002281bf26d6f9c2e6"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "516131.55415229647478890222",
+                    "pair": "0x7862d9b4be2156b15d54f41ee4ede2d5b0b455e4"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV2",
+                    "liquidity": "492107.67931023",
+                    "pair": "0xa39af17ce4a8eb807e076805da1e2b8ea7d0755b"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Biswap",
+                    "liquidity": "288353.05291057",
+                    "pair": "0xda8ceb724a06819c0a5cdb4304ea0cb27f8304cf"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Biswap",
+                    "liquidity": "279221.52219351",
+                    "pair": "0x8840c6252e2e86e545defb6da98b2a0e26d8c1ba"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "ThenaV3",
+                    "liquidity": "203204.73619545206135088502",
+                    "pair": "0xd405b976ac01023c9064024880999fc450a8668b"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "192488.071215447949335400243",
+                    "pair": "0x4f3126d5de26413abdcf6948943fb9d0847d9818"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "170361.912300603984182175572658",
+                    "pair": "0x2c3c320d49019d4f9a92352e947c7e5acfe47d68"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "mdex",
+                    "liquidity": "144146.48651492",
+                    "pair": "0x62c1dec1ff328dcdc157ae0068bb21af3967acd9"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "124021.43491486066188396214",
+                    "pair": "0x6fe9e9de56356f7edbfcbb29fab7cd69471a4869"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Biswap",
+                    "liquidity": "122151.08780022",
+                    "pair": "0x1483767e665b3591677fd49f724bf7430c18bf83"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV1",
+                    "liquidity": "92607.67588178",
+                    "pair": "0x20bcc3b8a0091ddac2d0bc30f68e6cbb97de59cd"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Ape",
+                    "liquidity": "88025.15161265",
+                    "pair": "0x2e707261d086687470b515b320478eb1c88d49bb"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "77156.710470187455358857792",
+                    "pair": "0xc98f01bf2141e1140ef8f8cad99d4b021d10718f"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "mdex",
+                    "liquidity": "39636.94796404",
+                    "pair": "0x9f4da89774570e27170873befd139a79cb1a3da2"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "34147.21165313442894853801",
+                    "pair": "0x1401ff943d08a7e098328c1d3a9d388923b115d2"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "mdex",
+                    "liquidity": "28626.89796439",
+                    "pair": "0x09cb618bf5ef305fadfd2c8fc0c26eecf8c6d5fd"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV1",
+                    "liquidity": "27207.87557020",
+                    "pair": "0x85f8628bfff75d08f1aa415e5c7e85d96bfd7f57"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "20931.619956752472",
+                    "pair": "0x4e26d812a134560ee81202f560b6965ab7feda89"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "ThenaV2",
+                    "liquidity": "20521.13769988",
+                    "pair": "0x6321b57b6fdc14924be480c54e93294617e672ab"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "19807.780889290423322793190524",
+                    "pair": "0x8b53b3e4602f86ed5dd1d7fb76733aac8f386acd"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "6861.134750752442595628343304",
+                    "pair": "0xccdfcd1aac447d5b29980f64b831c532a6a33726"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "ThenaV2",
+                    "liquidity": "6463.18260009",
+                    "pair": "0x618f9eb0e1a698409621f4f487b563529f003643"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "6352.44004859920636885620",
+                    "pair": "0x4d170f8714367c44787ae98259ce8adb72240067"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "6118.13799291717147164039",
+                    "pair": "0x6805e0e5333c5c3accf2930be4734e2b98f4ce06"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "3957.005404209302900215435773",
+                    "pair": "0x18fc1e95adb68b556212ebbad777f3fbb644db98"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "3802.10435766442665804000",
+                    "pair": "0x55fe55677e8398ef5c92f01b780403c9a771a1c0"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "ThenaV2",
+                    "liquidity": "2026.36377877",
+                    "pair": "0x6be6a437a1172e6c220246ecb3a92a45af9f0cbc"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "1928.612429407161",
+                    "pair": "0xb2e1f68f602de6da17c2956449a25660ac150333"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Ape",
+                    "liquidity": "1642.14422001",
+                    "pair": "0x83c5b5b309ee8e232fe9db217d394e262a71bcc0"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "634.158713695733318894696",
+                    "pair": "0x84e47c7f2fe86f6b5efbe14fee46b8bb871b2e05"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "412.183383652218645317209335",
+                    "pair": "0x6a32b830acac9ad59f23d77e0dc6c6d5e4622d31"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "359.83899945994176126182",
+                    "pair": "0x8ec186cd1ad51c380bd23fde29f852226647616c"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "340.157598220920586571465",
+                    "pair": "0xbfbba3de6a260c8374f8299c38898312c2d6e9a6"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "ThenaV3",
+                    "liquidity": "274.284767077804054201417614",
+                    "pair": "0x1b9a1120a17617d8ec4dc80b921a9a1c50caef7d"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "ThenaV2",
+                    "liquidity": "158.49268670",
+                    "pair": "0xdc17b8899d8084e64913bd508bb13bfc2696debb"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "152.676687068720287043760",
+                    "pair": "0x1625f94b9185c028733e3eb41c8203b6b8a11729"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "129.9798895375696353138",
+                    "pair": "0xe04d921d6ab7c3ef2eee14dd7a95be5706a1ea93"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV1",
+                    "liquidity": "102.99749162",
+                    "pair": "0x3f3d4ce222a7c919ea7f0231471c77478e36fc0d"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "ThenaV2",
+                    "liquidity": "50.59479353",
+                    "pair": "0xf048cf3eac3c17ad47ae1c4e37408040177a8554"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "PancakeV2",
+                    "liquidity": "50.40861063",
+                    "pair": "0x4e83ae65e9262712f4f4bc2f9dfe921704bc71df"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "29.644494496640052107970163",
+                    "pair": "0x5f69c87e3ed60d6b6b544c16f0072cd4a72ad13c"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "22.064646610279370692076792",
+                    "pair": "0xa25c5774bd3f5a3fcdebadf00bcfea50e93ee678"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "8.13117182640132444824",
+                    "pair": "0xc23a44f38634ced8ba6f71483bb5bd27012739f7"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "mdex",
+                    "liquidity": "3.72813515",
+                    "pair": "0x577e506d43d21d0e53c00cfb8eae2a98a2fa4179"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "ThenaV2",
+                    "liquidity": "2.46440669",
+                    "pair": "0x262029c946d868ca5c339d4ea605e65928e2013a"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Biswap",
+                    "liquidity": "1.48936991",
+                    "pair": "0x5032a2fb29b72ad8dacc71429a2a81df637433bb"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Ape",
+                    "liquidity": "0.24574247",
+                    "pair": "0xcd1e0b85b72ea3ecdf8a4b79c7bf9bcff5113829"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Ape",
+                    "liquidity": "0.23188157",
+                    "pair": "0xc32f6cf83c153729153f15bdfd5bbc9e9148947f"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "mdex",
+                    "liquidity": "0.21966382",
+                    "pair": "0x235c1f439cfd64e153dd77194afba685e3cc3de5"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "UniswapV3",
+                    "liquidity": "0.082868574445035814530405",
+                    "pair": "0x872d049c981044d6939de9e571f2175f823b65c4"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "0.010301328083140374039276",
+                    "pair": "0x418e8bf549cb4a544d033edc8bc26c3357e6efa7"
+                },
+                {
+                    "liquidity_type": "UniV3",
+                    "name": "PancakeV3",
+                    "liquidity": "0.001988667391571665340424",
+                    "pair": "0xb2d25f062a88db40861007b07e10549772272b0b"
+                },
+                {
+                    "liquidity_type": "UniV2",
+                    "name": "Biswap",
+                    "liquidity": "0.00000000",
+                    "pair": "0x66401653618414cfb44e027c754716a97884b3af"
+                }
+            ],
+            "external_call": "0",
+            "hidden_owner": "0",
+            "holder_count": "28070023",
+            "holders": [
+                {
+                    "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "253401357.079465127146308694",
+                    "percent": "0.048872061814309366",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "214590128.266262252054737317",
+                    "percent": "0.041386763410586392",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
+                    "tag": "",
+                    "is_contract": 1,
+                    "balance": "200318420.412027605353016519",
+                    "percent": "0.038634261227935523",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xd3a22590f8243f8e83ac230d1842c9af0404c4a1",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "175878698.2749313132394152",
+                    "percent": "0.033920712631452860",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x4fdfe365436b5273a42f135c6a6244a20404271e",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "66659496.314147336311909448",
+                    "percent": "0.012856233533722212",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x98b4be9c7a32a5d3befb08bb98d65e6d204f7e98",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "55744690.7657593423",
+                    "percent": "0.010751157785115606",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xf05f0e4362859c3331cb9395cbc201e3fa6757ea",
+                    "tag": "",
+                    "is_contract": 1,
+                    "balance": "53599647.972738348579722504",
+                    "percent": "0.010337455722967667",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x434742703055bd20f42142d9d70b0735a5eb1b14",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "49135172.833872314733077642",
+                    "percent": "0.009476418088955764",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+                    "tag": "",
+                    "is_contract": 0,
+                    "balance": "46220027.996774487034664095",
+                    "percent": "0.008914190876290788",
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x36696169c63e42cd08ce11f5deebbcebae652050",
+                    "tag": "PancakeV3",
+                    "is_contract": 1,
+                    "balance": "39919790.10248848553543981",
+                    "percent": "0.007699100241563673",
+                    "is_locked": 0
+                }
+            ],
+            "honeypot_with_same_creator": "0",
+            "is_anti_whale": "0",
+            "is_blacklisted": "0",
+            "is_honeypot": "0",
+            "is_in_dex": "1",
+            "is_mintable": "1",
+            "is_open_source": "1",
+            "is_proxy": "0",
+            "is_whitelisted": "0",
+            "lp_holder_count": "10",
+            "lp_holders": [
+                {
+                    "address": "0xd183f2bbf8b28d9fec8367cb06fe72b88778c86b",
+                    "tag": "",
+                    "value": "16906971.744958747883293600086516",
+                    "is_contract": 0,
+                    "balance": "3569085413.326249898523231768",
+                    "percent": "0.999491107947008970",
+                    "NFT_list": [
+                        {
+                            "value": "16906971.744958747883293600086516",
+                            "NFT_id": "67552",
+                            "amount": "3569085413.326249898523231768",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.999491107947008970"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xe8865eb232852f09a7ad6e305f9b541a654d1117",
+                    "tag": "",
+                    "value": "6412.044684454334389153034368",
+                    "is_contract": 0,
+                    "balance": "1353591.61286265698315135",
+                    "percent": "0.000379061474907944",
+                    "NFT_list": [
+                        {
+                            "value": "6412.044684454334389153034368",
+                            "NFT_id": "172759",
+                            "amount": "1353591.61286265698315135",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000379061474907944"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xdbe159fbeb3d0e576ff259a707d29703aa01d357",
+                    "tag": "",
+                    "value": "55.802574508663808032992082",
+                    "is_contract": 0,
+                    "balance": "223317.236470275527085947",
+                    "percent": "0.000062538036010554",
+                    "NFT_list": [
+                        {
+                            "value": "55.802574508663808032992082",
+                            "NFT_id": "1580676",
+                            "amount": "223317.236470275527085947",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000062538036010554"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x9af789bce7c37c8a0a03d6e5955ddcc722774d84",
+                    "tag": "",
+                    "value": "78.101692807973395322506918",
+                    "is_contract": 0,
+                    "balance": "104211.527169971793153669",
+                    "percent": "0.000029183525382457",
+                    "NFT_list": [
+                        {
+                            "value": "78.101692807973395322506918",
+                            "NFT_id": "159679",
+                            "amount": "104211.527169971793153669",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000029183525382457"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x12c58a873124137a8f7bb128d2bf62eb265bf1b8",
+                    "tag": "",
+                    "value": "188.083459037117233816975658",
+                    "is_contract": 0,
+                    "balance": "44364.736927445354922589",
+                    "percent": "0.000012423955980382",
+                    "NFT_list": [
+                        {
+                            "value": "188.083459037117233816975658",
+                            "NFT_id": "123654",
+                            "amount": "44364.736927445354922589",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000012423955980382"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x2fdce722838c3d518ca55a8b7741cf909721c998",
+                    "tag": "",
+                    "value": "4.628343632562889017580718",
+                    "is_contract": 0,
+                    "balance": "18522.244153775871851689",
+                    "percent": "0.000005186992236666",
+                    "NFT_list": [
+                        {
+                            "value": "4.628343632562889017580718",
+                            "NFT_id": "1539470",
+                            "amount": "18522.244153775871851689",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000005186992236666"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x374e72ca98f382beed593d3c875bd233992c983d",
+                    "tag": "",
+                    "value": "19.223249948202438070090864",
+                    "is_contract": 0,
+                    "balance": "15393.661294924740659379",
+                    "percent": "0.000004310860010684",
+                    "NFT_list": [
+                        {
+                            "value": "19.223249948202438070090864",
+                            "NFT_id": "1318170",
+                            "amount": "15393.661294924740659379",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000004310860010684"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xb1aa917ed5045f0beadbd1798394a9a33cbaaf23",
+                    "tag": "",
+                    "value": "3.78913719077569295935868",
+                    "is_contract": 0,
+                    "balance": "15163.810155737431025396",
+                    "percent": "0.000004246492212449",
+                    "NFT_list": [
+                        {
+                            "value": "3.78913719077569295935868",
+                            "NFT_id": "1616590",
+                            "amount": "15163.810155737431025396",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000004246492212449"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0x2678e0d100abe99e4d00f8f1082c958845d4a387",
+                    "tag": "",
+                    "value": "506.924824258138596263899676",
+                    "is_contract": 0,
+                    "balance": "11339.719559106349383673",
+                    "percent": "0.000003175589136539",
+                    "NFT_list": [
+                        {
+                            "value": "506.924824258138596263899676",
+                            "NFT_id": "791396",
+                            "amount": "11339.719559106349383673",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000003175589136539"
+                        }
+                    ],
+                    "is_locked": 0
+                },
+                {
+                    "address": "0xe4efc69e12057ba39041813b0a0ac1e5282fd8a4",
+                    "tag": "",
+                    "value": "6.346406087444258240612636",
+                    "is_contract": 0,
+                    "balance": "8468.045270663488473422",
+                    "percent": "0.000002371401905407",
+                    "NFT_list": [
+                        {
+                            "value": "6.346406087444258240612636",
+                            "NFT_id": "601162",
+                            "amount": "8468.045270663488473422",
+                            "in_effect": "1",
+                            "NFT_percentage": "0.000002371401905407"
+                        }
+                    ],
+                    "is_locked": 0
+                }
+            ],
+            "lp_total_supply": "3570902617.290194",
+            "owner_address": "0xf68a4b64162906eff0ff6ae34e2bb1cd42fef62d",
+            "owner_balance": "1500.006000756763557875",
+            "owner_change_balance": "0",
+            "owner_percent": "0.000000",
+            "personal_slippage_modifiable": "0",
+            "selfdestruct": "0",
+            "sell_tax": "0",
+            "slippage_modifiable": "0",
+            "token_name": "Tether USD",
+            "token_symbol": "USDT",
+            "total_supply": "5184994200.618545272902185873",
+            "trading_cooldown": "0",
+            "transfer_pausable": "0",
+            "transfer_tax": "0",
+            "trust_list": "1"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+sudo ssh -i ai.pem ubuntu@52.77.48.131

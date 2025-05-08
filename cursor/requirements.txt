@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+langsmith
+redis
+openai
+httpx
+python-dotenv 

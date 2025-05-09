@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  python-app:
+    build:
+      context: .              # 当前目录包含 Dockerfile
+      dockerfile: Dockerfile  # 默认可以省略
+    working_dir: /tikeAgent
+    volumes:
+      - .env:/tikeAgent/.env
+    ports:
+      - "9000:8000"
+    environment:
+      - PYTHONPATH=/tikeAgent
+      - ENV_FILE=/tikeAgent/.env
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+    networks:
+      - tike-agent-ip
+    depends_on:
+      - redis
+      - pgsql
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6380:6379"
+    volumes:
+      - ./redis/data:/data
+    networks:
+      - tike-agent-ip
+
+  pgsql:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./pgsql:/var/lib/postgresql/data
+    networks:
+      - tike-agent-ip
+
+networks:
+  tike-agent-ip:
+    driver: bridge

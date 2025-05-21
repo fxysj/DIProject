@@ -1,0 +1,18 @@
+version: '3.7'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql80-ai
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: I5xlwT@2025
+      MYSQL_DATABASE: ai_wallet_db
+    ports:
+      - "3306:3306"
+    command:
+      --default-authentication-plugin=mysql_native_password
+      --bind-address=0.0.0.0
+    volumes:
+      - ./mysql:/var/lib/mysql  # ✅ 数据文件挂载到当前目录下的 ./mysql
+

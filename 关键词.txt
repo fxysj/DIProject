@@ -1,0 +1,19 @@
+大语言模型训练（LLM Training）
+指令微调 / Chat Fine-tuning / SFT / DPO
+多轮对话建模 / Chain of Thought / ReAct 推理链
+人格建模 / 用户情绪建模 / 行为建模（User Persona Modeling）
+意图识别 + 工具动态调用建模（Function Calling + Intent Router）
+链上行为数据建模（On-chain Data Modeling）
+Web3.0 知识图谱构建（Crypto Knowledge Graph）
+检索增强生成（RAG）
+LoRA / QLoRA / PEFT / Adapter 微调技术
+多智能体系统（Multi-agent LLM system）
+多模态理解（图文/行为/语义融合）
+Token 经济建模 / NFT 热点建模 / DeFi 数据预测
+MCP 工具链支持（工具意图建模与调用链路）
+模型推理优化（推理加速 / 低延迟服务）
+Prompt Engineering / Prompt 数据结构设计
+Python / PyTorch / HuggingFace Transformers
+Web3 数据接口（如 Etherscan, Dune, The Graph 等）
+向量数据库（Faiss / Weaviate / Pinecone）
+推理框架优化（vLLM / TGI / DeepSpeed-Inference）

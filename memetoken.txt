@@ -1,0 +1,278 @@
+{
+    "id": "HxFZ2BIL2hwW2E6z1113",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Baby Doge Coin",
+            "data": {
+                "intent": "deep_research",
+                "form": {
+                    "selectedType": {
+                        "id": "type3_baby-doge-coin",
+                        "title": "Analysis report of the Baby Doge Coin",
+                        "logo": "",
+                        "type": 3,
+                        "detail": "Baby Doge Coin is a meme cryptocurrency designed to be deflationary and more scarce over time. Holders earn more tokens automatically through a 5% fee from every on-chain transaction within the Baby Doge ecosystem. The token is available on multiple blockchain networks, including BNB Smart Chain, Ethereum, and Solana.",
+                        "chain_id": 56,
+                        "contract_addresses": [
+                            "0xc748673057861a797275cd8a068abb95a902e8de"
+                        ],
+                        "symbol": "BabyDoge"
+                    }
+                }
+            }
+        }
+    ],
+    "session_id": "0x22223"
+}
+
+[
+    {
+        "success": true,
+        "promptedAction": [
+            "RESEARCH_SAVE",
+            "RESEARCH_SHARE",
+            "RESEARCH_BUY_TOKEN"
+        ],
+        "data": {
+            "intent": "deep_research",
+            "form": {
+                "selectedType": {
+                    "id": "type3_baby-doge-coin",
+                    "title": "Analysis report of the Baby Doge Coin",
+                    "logo": "",
+                    "type": 3,
+                    "detail": "Baby Doge Coin is a meme cryptocurrency designed to be deflationary and more scarce over time. Holders earn more tokens automatically through a 5% fee from every on-chain transaction within the Baby Doge ecosystem. The token is available on multiple blockchain networks, including BNB Smart Chain, Ethereum, and Solana.",
+                    "chain_id": 56,
+                    "contract_addresses": [
+                        "0xc748673057861a797275cd8a068abb95a902e8de"
+                    ],
+                    "symbol": "BabyDoge"
+                }
+            },
+            "timestamp": 1748237204.8116946,
+            "description": "I have confirmed the information to be queried. Kindly assist in retrieving the relevant data",
+            "overview": {
+                "tokenPrice": "0.0(8)168",
+                "fdv": "0.00",
+                "m.cap": "277.71M",
+                "maxSupply": "0.00",
+                "circulation": "165004395.75B",
+                "tokenSymbol": "BabyDoge",
+                "contractAddress": [
+                    "0xc748673057861a797275cd8a068abb95a902e8de"
+                ],
+                "contractCreator": "0xf1***062b74",
+                "contractOwner": "0x00***000000",
+                "tokerHolders": "1898792",
+                "tokenSupply": "334142603935536660.13",
+                "top10HoldersRatio": "80.00%"
+            },
+            "details": {
+                "tokenPrice": "0.0(8)168",
+                "fdv": "0.00",
+                "m.cap": "277.71M",
+                "maxSupply": "0.00",
+                "circulation": "165004395.75B",
+                "tokenSymbol": "BabyDoge",
+                "contractAddress": [
+                    "0xc748673057861a797275cd8a068abb95a902e8de"
+                ],
+                "contractCreator": "0xf1***062b74",
+                "contractOwner": "0x00***000000",
+                "tokerHolders": "1898792",
+                "tokenSupply": "334142603935536660.13",
+                "top10HoldersRatio": "80.00",
+                "contractSourceCodeVerified": {
+                    "title": "Contract source code verified",
+                    "description": "This token contract is open source. You can check the contract code for details. Unsourced token contracts are likely to have malicious functions to defraud their users of their assets",
+                    "value": "1"
+                },
+                "noProxy": {
+                    "title": "No proxy",
+                    "description": "There is no proxy in the contract. The proxy contract means contract owner can modifiy the function of the token and possibly effect the price.",
+                    "value": "0"
+                },
+                "noMintFunction": {
+                    "title": "No mint function",
+                    "description": "Mint function is transparent or non-existent. Hidden mint functions may increase the amount of tokens in circulation and effect the price of the token.",
+                    "value": "0"
+                },
+                "noFunctionFoundThatRetrievesOwnership": {
+                    "title": "No function found that retrieves ownership",
+                    "description": "If this function exists, it is possible for the project owner to regain ownership even after relinquishing it",
+                    "value": "0"
+                },
+                "ownerCantChangeBalance": {
+                    "title": "Owner can't change balance",
+                    "description": "The contract owner is not found to have the authority to modify the balance of tokens at other addresses.",
+                    "value": "0"
+                },
+                "noHiddenOwner": {
+                    "title": "No hidden owner",
+                    "description": "No hidden owner address was found for the token. For contract with a hidden owner, developer can still manipulate the contract even if the ownership has been abandoned.",
+                    "value": "0"
+                },
+                "thisTokenCanNotSelfDestruct": {
+                    "title": "This token can not self destruct",
+                    "description": "No self-destruct function found. If this function exists and is triggered, the contract will be destroyed, all functions will be unavailable, and all related assets will be erased.",
+                    "value": "0"
+                },
+                "noExternalCallRiskFound": {
+                    "title": "No external call risk found",
+                    "description": "External calls would cause this token contract to be highly dependent on other contracts, which may be a potential risk.",
+                    "value": "0"
+                },
+                "thisTokenIsNotAGasAbuser": "--",
+                "buyTax": "0.00%",
+                "sellTax": "0.00%",
+                "thisDoesNotAppearToBeAHoneypot": {
+                    "title": "This does not appear to be a honeypot",
+                    "description": "We are not aware of any malicious code.",
+                    "value": "0"
+                },
+                "noCodesFoundToSuspendTrading": {
+                    "title": "No codes found to suspend trading",
+                    "description": "If a suspendable code is included, the token maybe neither be bought nor sold (honeypot risk).",
+                    "value": "0"
+                },
+                "noTradingCooldownFunction": {
+                    "title": "No trading cooldown function",
+                    "description": "The token contract has no trading cooldown function. If there is a trading cooldown function, the user will not be able to sell the token within a certain time or block after buying.",
+                    "value": "0"
+                },
+                "noAntiWhaleUnlimitedNumberOfTransactions": {
+                    "title": "Anti-whale mechanism exists (Limited number of transactions)",
+                    "description": "There is a limit to the number of token transactions. The number of scam token transactions may be limited (honeypot risk).",
+                    "value": "1"
+                },
+                "antiWhaleCannotBeModified": {
+                    "title": "Anti whale can  be modified",
+                    "description": "The maximum trading amount or maximum position can  be modified.",
+                    "value": "1"
+                },
+                "taxCannotBeModified": "--",
+                "noBlacklist": {
+                    "title": "No blacklist",
+                    "description": "The blacklist function is not included. If there is a blacklist, some addresses may not be able to trade normally (honeypot risk).",
+                    "value": "0"
+                },
+                "noWhitelist": {
+                    "title": "Whitelist function",
+                    "description": "Having a whitelist function means that, for this contract, some privileged users may have greater advantages in transactions, such as bypassing transaction limits, being exempt from taxes, trading earlier than others, or not being affected by transaction cooldown restrictions.",
+                    "value": "1"
+                },
+                "noTaxChangesFoundForPersonalAddresses": "--",
+                "dexAndLiquidity": [
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "PancakeV2",
+                        "liquidity": "8651066.60436503",
+                        "pair": "0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0"
+                    },
+                    {
+                        "liquidity_type": "UniV3",
+                        "name": "PancakeV3",
+                        "liquidity": "6148446.03162849531947294250",
+                        "pair": "0x61db764c20a2ebfb7e8a7a5afb0b2dd85a4cef5f"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "PancakeV2",
+                        "liquidity": "13206.52958110",
+                        "pair": "0xbf7cd39d07adaa953e1e0be47f97315955c9381b"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "Biswap",
+                        "liquidity": "3848.36530942",
+                        "pair": "0xbed24d194afe26169a1f4a419e381dd4e99f9c1f"
+                    },
+                    {
+                        "liquidity_type": "UniV3",
+                        "name": "UniswapV3",
+                        "liquidity": "1616.35585686317153610795",
+                        "pair": "0xcf25533b5f358b9922aa6e161a2a8fd15c6620e5"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "PancakeV2",
+                        "liquidity": "1495.22235298",
+                        "pair": "0xbf958db5ba81a9df6f70aafeeede20d55e2155a6"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "PancakeV2",
+                        "liquidity": "440.82254401",
+                        "pair": "0xed3f52c46280ad96485323fb6a51242cb4ca45f5"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "PancakeV2",
+                        "liquidity": "45.60313732",
+                        "pair": "0x573419ff5b1718d87e0adb92f80ddfb0e1a81a93"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "Ape",
+                        "liquidity": "15.23534246",
+                        "pair": "0x7d6c5f946212d5d0ef85213a2081baaa3fa1c053"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "mdex",
+                        "liquidity": "2.87292367",
+                        "pair": "0x411cb17c620284b1c03eee7a3532089fe8b0d81b"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "Biswap",
+                        "liquidity": "0.35244026",
+                        "pair": "0x9864efa215b6dbfec560e3785d7288f745f428a4"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "mdex",
+                        "liquidity": "0.01195093",
+                        "pair": "0xf5e3de54ae86d5895b400ffb396c05e210624d9c"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "Biswap",
+                        "liquidity": "0.01167015",
+                        "pair": "0x6d32c53f67108d1e136e77207a0ad2be40ea7381"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "mdex",
+                        "liquidity": "0.01006726",
+                        "pair": "0x94c4831a3e0212c2b9908ffd742b38c1230ceeee"
+                    },
+                    {
+                        "liquidity_type": "UniV3",
+                        "name": "PancakeV3",
+                        "liquidity": "0.00001363527842522256",
+                        "pair": "0xf2de996e04bb313586145efcc7522a474543b6c5"
+                    },
+                    {
+                        "liquidity_type": "UniV3",
+                        "name": "PancakeV3",
+                        "liquidity": "0.0000027586234391350",
+                        "pair": "0x59b471b078c372de513a4e78a4786da7ce21e48c"
+                    },
+                    {
+                        "liquidity_type": "UniV2",
+                        "name": "ThenaV2",
+                        "liquidity": "0.00000000",
+                        "pair": "0x7a7c5b69913996b5780330513135f6e235b75033"
+                    }
+                ]
+            },
+            "state": "RESEARCH_TASK_DISPLAY_RESEARCH",
+            "type": 3
+        },
+        "message": "ok",
+        "confidence": 99.9,
+        "alternatives": []
+    }
+]

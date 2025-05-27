@@ -1,0 +1,89 @@
+{
+	"success": true,
+	"promptedAction": [
+		"RESEARCH_SAVE",
+		"RESEARCH_SHARE",
+		"RESEARCH_BUY_TOKEN"
+	],
+	"data": {
+		"intent": "deep_research",
+		"form": {
+			"selectedType": {
+				"id": 12,
+				"title": "Background information of the Ethereum",
+				"logo": "https://public.rootdata.com/images/b6/1703249591096.jpg",
+				"type": 2,
+				"detail": "Ethereum is the first decentralized, open-source blockchain with smart contract functionality. It was initially described in a white paper by Vitalik Buterin in late 2013 and launched in 2015. This network serves as the foundation for an ecosystem of interoperable, decentralized applications (dApps) powered by token economies and automated smart contracts. Assets and applications designed on Ethereum are built with self-executing smart contracts that eliminate the need for a central authority or intermediary. \u2028The network is powered by its native cryptocurrency ether (ETH), which is used to pay transaction fees. Ethereum has the characteristics of being open-source, programmable, private, and censorship-resistant, forming the backbone of a decentralized internet.",
+				"chain_id": 1,
+				"contract_addresses": [],
+				"symbol": "ETH"
+			}
+		},
+		"timestamp": 1748253830.5407689,
+		"description": "I have confirmed the information to be queried. Kindly assist in retrieving the relevant data",
+		"overview": {
+			"projectName": "Ethereum",
+			"logo": "https://public.rootdata.com/images/b6/1703249591096.jpg",
+			"tokenSymbol": "ETH",
+			"tokenPrice": "0.0",
+			"fdv": "0.00",
+			"m.cap": "0.00",
+			"brief": "The first blockchain with smart contract functionality",
+			"fundraisingAmount": "18.50M",
+			"ecosystem": "--",
+			"xFollowers": "0.00",
+			"description": "Ethereum is the first decentralized, open-source blockchain with smart contract functionality. It was initially described in a white paper by Vitalik Buterin in late 2013 and launched in 2015. This network serves as the foundation for an ecosystem of interoperable, decentralized applications (dApps) powered by token economies and automated smart contracts. Assets and applications designed on Ethereum are built with self-executing smart contracts that eliminate the need for a central authority or intermediary. \u2028The network is powered by its native cryptocurrency ether (ETH), which is used to pay transaction fees. Ethereum has the characteristics of being open-source, programmable, private, and censorship-resistant, forming the backbone of a decentralized internet."
+		},
+		"details": {
+			"projectName": "Ethereum",
+			"logo": "https://public.rootdata.com/images/b6/1703249591096.jpg",
+			"tokenSymbol": "ETH",
+			"tokenPrice": "0.0",
+			"fdv": "0.00",
+			"m.cap": "0.00",
+			"brief": "The first blockchain with smart contract functionality",
+			"fundraisingAmount": "18.50M",
+			"ecosystem": "--",
+			"xFollowers": "0.00",
+			"description": "Ethereum is the first decentralized, open-source blockchain with smart contract functionality. It was initially described in a white paper by Vitalik Buterin in late 2013 and launched in 2015. This network serves as the foundation for an ecosystem of interoperable, decentralized applications (dApps) powered by token economies and automated smart contracts. Assets and applications designed on Ethereum are built with self-executing smart contracts that eliminate the need for a central authority or intermediary. \u2028The network is powered by its native cryptocurrency ether (ETH), which is used to pay transaction fees. Ethereum has the characteristics of being open-source, programmable, private, and censorship-resistant, forming the backbone of a decentralized internet.",
+			"reports": [{
+				"title": "新闻标题",
+				"url": "新闻链接",
+				"time_east": "新闻发布时间（东八区）"
+			}],
+			"events": [{
+				"hap_date": "2025-09-19",
+				"event": "大的新闻热点合并重组"
+			}],
+			"investors": [{
+				"invest_id": 198,
+				"name": "Fenbushi Capital",
+				"logo": "https://public.rootdata.com/images/b17/1666777084167.jpg",
+				"type": 2,
+				"lead_investor": 0
+			}],
+			"teamMember": [{
+				"head_img": "头像",
+				"name": "投资者名称",
+				"position": "职位",
+				"X": "X链接",
+				"linkedin": "https://www.linkedin.com/company/fabriccryptography/"
+			}],
+			"socialMedia": {
+				"website": "https://www.ethereum.org/",
+				"github": "GitHub - ethereum/go-ethereum: Go implementation of the Ethereum protocol",
+				"gitbook": "",
+				"X": "https://x.com/ethereum",
+				"cmc": "1027",
+				"linkedin": "https://www.linkedin.com/company/ethereum/",
+				"medium": "",
+				"defillama": "https://defillama.com/chain/Ethereum"
+			}
+		},
+		"state": "RESEARCH_TASK_DISPLAY_RESEARCH",
+		"type": 2
+	},
+	"message": "ok",
+	"confidence": 99.9,
+	"alternatives": []
+}

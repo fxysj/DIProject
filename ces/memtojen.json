@@ -1,0 +1,27 @@
+{
+    "id": "HxFZ2BIL2hwW2E6z1113",
+    "messages": [
+        {
+            "role": "user",
+            "content": "帮我做一个去北京旅行三天的计划",
+            "data": {
+                "intent": "deep_research",
+                "form": {
+                    "selectedType": {
+                        "id": "type3_baby-doge-coin",
+                        "title": "Analysis report of the Baby Doge Coin",
+                        "logo": "",
+                        "type": 3,
+                        "detail": "Baby Doge Coin is a meme cryptocurrency designed to be deflationary and more scarce over time. Holders earn more tokens automatically through a 5% fee from every on-chain transaction within the Baby Doge ecosystem. The token is available on multiple blockchain networks, including BNB Smart Chain, Ethereum, and Solana.",
+                        "chain_id": 56,
+                        "contract_addresses": [
+                            "0xc748673057861a797275cd8a068abb95a902e8de"
+                        ],
+                        "symbol": "BabyDoge"
+                    }
+                }
+            }
+        }
+    ],
+    "session_id": "0x22223"
+}

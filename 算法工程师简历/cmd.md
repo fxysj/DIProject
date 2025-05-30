@@ -1,0 +1,1 @@
+sudo docker logs --tail 10  ai-wallet-python-app-1

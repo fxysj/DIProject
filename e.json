@@ -1,0 +1,13 @@
+{
+    "id": "HxFZ2BIL2hwW2E6z111342",
+    "messages": [
+        {
+            "role": "user",
+            "content": "将DOT换成DOGE跨链",
+            "data": {
+                 "intent": "swap"
+            }
+        }
+    ],
+    "session_id": "0x22223xx23232xwe"
+}
